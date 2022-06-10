@@ -8,7 +8,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.98.0">
-    <title>{{ config('app.name', 'Student-App') }}</title>
+    <title>{{ config('app.name', 'Student-Management-System') }}</title>
     <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
     <style>
         .bd-placeholder-img {
