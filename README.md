@@ -1,4 +1,4 @@
-# student-app
+# Student App
 Student registration and mark list
 
 # Run following commands
